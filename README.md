@@ -1,4 +1,4 @@
-# My book collections.
+# My book collectins.
 ```
 
 	1. Clean Code
