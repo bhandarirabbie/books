@@ -8,6 +8,7 @@
 	5. Java Swing
 	6. SICP
 	7. The Pragmatic Programmer
+	8. Introduction to Algorithms
 	
 ```
 
@@ -28,5 +29,7 @@
 	https://web.mit.edu/6.001/6.037/sicp.pdf
 	
 	https://cdn.ttgtmedia.com/rms/pdf/pragmatic_programmer_ch4.pdf
+	
+	https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf
 	
 	
